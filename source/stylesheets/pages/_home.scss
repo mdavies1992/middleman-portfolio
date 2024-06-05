@@ -1,0 +1,39 @@
+// Specific CSS for your home-page
+body {
+	background: linear-gradient(-45deg, #48e162, #4464c4, #086587, #139b21);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+  font-family: "ROBOTO", sans-serif;
+	height: 100vh;
+  color: rgb(220, 220, 220);
+}
+
+h1 {
+  color: rgb(220, 220, 220);
+  font-weight: bold;
+}
+
+h2 {
+  color: rgb(220, 220, 220);
+  text-decoration: underline;
+  background-color: rgba(255, 255, 255, 0.223);
+  padding: 16px;
+  border-radius: 16px;
+  }
+
+h3 {
+  color: rgb(220, 220, 220);
+}
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
