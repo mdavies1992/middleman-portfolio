@@ -3,6 +3,8 @@
   image: projects/Shortify.png
   url: https://www.google.com
   github: https://github.com/mdavies1992/shortify
+  youtube: https://youtu.be/CLhtyzqgObE?si=TLXB4-_dLVAlK95A&t=1475
+  youtube: true
   online: false
 
 - name: Share-Your-Dog
