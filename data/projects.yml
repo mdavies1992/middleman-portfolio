@@ -12,12 +12,12 @@
   image: projects/dog.jpg
   url: https://bark-bnb-aed10ebed58b.herokuapp.com/
   github: https://github.com/mdavies1992/share-your-dog
-  online: true
+  online: false
 
 - name: God-Forge
   description: A generator for god-like beings to help Fantasy world-builders, using OpenAI description and image generation, utilizing D&D 5th Edition rules.
   image: projects/god.png
-  url: https://god-forge-c331450ddfc0.herokuapp.com/
+  url: https://www.god-forge.online/
   github: https://github.com/mdavies1992/GodMaker
   online: true
 
